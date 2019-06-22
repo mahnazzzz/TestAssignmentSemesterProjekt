@@ -6,7 +6,7 @@ Setup
 
 1. Clone the project.
 
-2. Run this production-sqlScript and test-sqlScrpit into your MySQL database.
+2. Run this sql Script and test sqlScrpit into your MySQL database.
 
 3. Open the project in your favorite IDE.
 
